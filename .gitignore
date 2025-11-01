@@ -33,7 +33,7 @@ servers_memory.json
 shopify_store_manager_memory.json
 sql_query_agent_memory.json
 suggestions_agent_memory.json
-
+chatbots/
 # Django stuff
 db.sqlite3 
 *.log
